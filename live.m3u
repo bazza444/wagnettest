@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS ACTION
+http://wagnet.club:55055/live/barrytest22/barrytest22/17968.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS ARENA
+http://wagnet.club:55055/live/barrytest22/barrytest22/17969.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS CRICKET HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17727.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS F1 HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17722.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS FOOTBALL HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17726.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS GOLF HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17725.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS MAIN EVENT HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17724.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS MIX HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17721.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS NEWS HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17728.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="" group-title="Sports Backup",UK: SKY SPORTS PREMIER LEAGUE HD
+http://wagnet.club:55055/live/barrytest22/barrytest22/17723.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD Backup" tvg-logo="https://image.ibb.co/mDFx0T/btsport1.png" group-title="Sports Backup",BT Sport 1 HD Backup
+http://wagnet.club:55055/live/barrytest22/barrytest22/17971.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD Backup" tvg-logo="https://image.ibb.co/jSXMS8/btsport2.png" group-title="Sports Backup",BT Sport 2 HD Backup
+http://wagnet.club:55055/live/barrytest22/barrytest22/17972.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD Backup" tvg-logo="https://image.ibb.co/jSXMS8/btsport2.png" group-title="Sports Backup",BT Sport 3 HD Backup
+http://wagnet.club:55055/live/barrytest22/barrytest22/17973.ts
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="At The Races SD Backup" tvg-logo="" group-title="Sports Backup",At The Races SD Backup
+http://wagnet.club:55055/live/barrytest22/barrytest22/17974.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="Racing UK HD Backup" tvg-logo="" group-title="Sports Backup",Racing UK HD Backup
+http://wagnet.club:55055/live/barrytest22/barrytest22/17975.ts
